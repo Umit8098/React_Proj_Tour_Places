@@ -1,15 +1,46 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-001 : Tour Places (RP-01)
+
+<h1 align="center">Tour Places</h1>
+
+
+<div align="center">
+  <h3>
+    <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
+      Demo
+    </a>
+     | 
+    <a href="https://umit8098.github.io/React_Proj_Tour_Places/">
+      Project
+    </a>
+ 
+  </h3>
+</div>
+
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Description](#description)
+- [Project Skeleton](#project-skeleton)
+- [Built With](#built-with)
+- [How To Use](#how-to-use)
+- [About This Project](#about-this-project)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
+
+## Overview
+- Tour Places
+
+![Project 001 Snapshot](tour-project.gif)
+
+---
+
 
 ## Description
 
 Project aims to create a tour places app.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
@@ -41,42 +72,46 @@ SOLUTION
 └── yarn.lock
 ```
 
-## Expected Outcome
+## Built With
 
-![Project 001 Snapshot](tour-project.gif)
-
-## Objective
-
-Build a Tour Project App using ReactJS.
-
-### At the end of the project, following topics are to be covered;
-
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+- JavaScript
 - HTML
-
 - CSS
 
-- JS
 
-- ReactJS
 
-### At the end of the project, students will be able to;
+## How To Use
 
-- improve coding skills within HTML & CSS & JS & ReactJS.
+<!-- This is an example, please update according to your application -->
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+To clone and run this application, you'll need [Git](https://github.com/Umit8098/React_Proj_Tour_Places.git)
 
-## Steps to Solution
 
-- Step 1: Create React App using `npx create-react-app tour-places`
+```bash
+# Clone this repository
+$ git clone https://github.com/Umit8098/React_Proj_Tour_Places.git
 
-- Step 2: Build tour places app using [`data.js`](./data.js).
 
-- Step 4: Push your application into your own public repo on Github
+$ yarn  
+$ yarn start 
 
-- Step 5: Add project gif to your project and README.md file.
+$ or
 
-## Notes
+$ npm install
+$ npm start
+```
 
-- You can add additional functionalities to your app.
+## About This Project
+- IOS Calculator
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+## Acknowledgements
+- [Clarusway](https://clarusway.com/)
+
+## Contact
+
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+- GitHub [@Umit8098](https://github.com/Umit8098)
+
+- Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
+<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
