@@ -45,27 +45,30 @@ Project aims to create a tour places app.
 ## Project Skeleton
 
 ```
-001-Tour Project(folder)
+Tour Places Project
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md   
 SOLUTION
 ├── public
 │     └── index.html
 ├── src
 │    ├── components
 │    │       ├── cards
-│    │       │     ├── Card.css
+│    │       │     ├── Card.scss
 │    │       │     └── Card.js
 │    │       ├── header
-│    │       │     ├── Header.css
+│    │       │     ├── Header.scss
 │    │       │     └── Header.js
-│    │       └── navbar
-│    │             ├── Navbar.css
+│    │       ├── header
+│    │       │     ├── Header.scss
+│    │       │     └── Header.js
+│    │       └── footer
+│    │             ├── Footer.scss
 │    │             └── Navbar.js
 │    ├── helper
 │    │       └── data.js
 │    ├── App.js
-│    ├── App.css
+│    ├── App.scss
 │    ├── index.js
 │    └── index.css
 ├── package.json
